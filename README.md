@@ -5,6 +5,8 @@ Duration: 25 July to 25 September 2024
 Domain: Full Stack WEb DEvelopment
 
 Website: file:///C:/Users/Administrator/Documents/mainflow.2.final.1.html
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/0fed9649-b45f-481f-bd87-56d9fec67945">
+
 
 Key Features:
 1.Sections for Each Page: The website has four sections: Home, Destination, Flight Class, and Date Selection. Only one section is visible at a time, simulating navigation between pages.
